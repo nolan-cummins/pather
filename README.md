@@ -18,5 +18,5 @@
 - numpy-stl
 - matplotlib
 - psutil
-2. Download and install [UltiMaker Cura 5.9.1](https://github.com/Ultimaker/Cura/releases/download/5.9.1/UltiMaker-Cura-5.9.1-win64-X64.exe) into the same directory as this repository. Note that if using a different version, "cura_path" under "pather.generatePath" must be properly updated.
+2. Download and install [UltiMaker Cura 5.9.1](https://github.com/Ultimaker/Cura/releases/download/5.9.1/UltiMaker-Cura-5.9.1-win64-X64.exe) into the same directory as this repository. _Note_ that if using a different version, "**cura_path**" under "**pather.generatePath**" must be properly updated.
 3. Run "python pather.py"
