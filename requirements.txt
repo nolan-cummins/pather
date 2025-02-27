@@ -1,0 +1,13 @@
+PySide6
+numpy
+pandas
+pyqtgraph
+opencv-python
+scipy
+pyclipper
+shapely
+itertools
+trimesh
+numpy-stl
+matplotlib
+psutil
